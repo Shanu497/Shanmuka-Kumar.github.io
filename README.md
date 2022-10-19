@@ -1,2 +1,2 @@
-# Shanmuka_Kumar.github.io
+# ShanmukaKumar.github.io
 This is a website 
